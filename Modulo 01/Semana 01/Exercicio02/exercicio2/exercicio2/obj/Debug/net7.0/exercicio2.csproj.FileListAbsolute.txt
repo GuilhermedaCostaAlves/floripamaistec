@@ -1,0 +1,15 @@
+D:\Users\guica\source\repos\exercicio2\exercicio2\bin\Debug\net7.0\exercicio2.exe
+D:\Users\guica\source\repos\exercicio2\exercicio2\bin\Debug\net7.0\exercicio2.deps.json
+D:\Users\guica\source\repos\exercicio2\exercicio2\bin\Debug\net7.0\exercicio2.runtimeconfig.json
+D:\Users\guica\source\repos\exercicio2\exercicio2\bin\Debug\net7.0\exercicio2.dll
+D:\Users\guica\source\repos\exercicio2\exercicio2\bin\Debug\net7.0\exercicio2.pdb
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.csproj.AssemblyReference.cache
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfoInputs.cache
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.AssemblyInfo.cs
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.csproj.CoreCompileInputs.cache
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.dll
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\refint\exercicio2.dll
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.pdb
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\exercicio2.genruntimeconfig.cache
+D:\Users\guica\source\repos\exercicio2\exercicio2\obj\Debug\net7.0\ref\exercicio2.dll
