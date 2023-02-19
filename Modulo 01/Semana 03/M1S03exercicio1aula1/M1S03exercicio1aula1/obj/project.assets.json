@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\guica\\source\\repos\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\M1S03exercicio1aula1.csproj",
+      "projectUniqueName": "D:\\Users\\Oz\\Desktop\\Entregas de exercício\\Github\\floripamaistec\\Modulo 01\\Semana 03\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\M1S03exercicio1aula1.csproj",
       "projectName": "M1S03exercicio1aula1",
-      "projectPath": "D:\\Users\\guica\\source\\repos\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\M1S03exercicio1aula1.csproj",
+      "projectPath": "D:\\Users\\Oz\\Desktop\\Entregas de exercício\\Github\\floripamaistec\\Modulo 01\\Semana 03\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\M1S03exercicio1aula1.csproj",
       "packagesPath": "C:\\Users\\guica\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\guica\\source\\repos\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\obj\\",
+      "outputPath": "D:\\Users\\Oz\\Desktop\\Entregas de exercício\\Github\\floripamaistec\\Modulo 01\\Semana 03\\M1S03exercicio1aula1\\M1S03exercicio1aula1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\guica\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
