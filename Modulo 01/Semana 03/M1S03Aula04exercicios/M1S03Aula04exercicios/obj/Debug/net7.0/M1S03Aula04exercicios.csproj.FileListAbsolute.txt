@@ -1,0 +1,15 @@
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.csproj.AssemblyReference.cache
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.AssemblyInfoInputs.cache
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.AssemblyInfo.cs
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.csproj.CoreCompileInputs.cache
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\bin\Debug\net7.0\M1S03Aula04exercicios.exe
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\bin\Debug\net7.0\M1S03Aula04exercicios.deps.json
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\bin\Debug\net7.0\M1S03Aula04exercicios.runtimeconfig.json
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\bin\Debug\net7.0\M1S03Aula04exercicios.dll
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\bin\Debug\net7.0\M1S03Aula04exercicios.pdb
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.dll
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\refint\M1S03Aula04exercicios.dll
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.pdb
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\M1S03Aula04exercicios.genruntimeconfig.cache
+D:\Users\guica\source\repos\M1S03Aula04exercicios\M1S03Aula04exercicios\obj\Debug\net7.0\ref\M1S03Aula04exercicios.dll
