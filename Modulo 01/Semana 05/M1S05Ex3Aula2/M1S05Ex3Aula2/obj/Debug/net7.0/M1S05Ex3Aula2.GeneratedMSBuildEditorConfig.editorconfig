@@ -1,0 +1,11 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = M1S05Ex3Aula2
+build_property.ProjectDir = D:\Users\Oz\Desktop\Entregas de exercício\Modulo01\Semana 5\M1S05Ex3Aula2\M1S05Ex3Aula2\
