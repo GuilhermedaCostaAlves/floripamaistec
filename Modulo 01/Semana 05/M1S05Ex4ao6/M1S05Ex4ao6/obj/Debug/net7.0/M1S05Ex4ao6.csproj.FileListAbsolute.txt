@@ -1,0 +1,15 @@
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\bin\Debug\net7.0\M1S05Ex4ao6.exe
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\bin\Debug\net7.0\M1S05Ex4ao6.deps.json
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\bin\Debug\net7.0\M1S05Ex4ao6.runtimeconfig.json
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\bin\Debug\net7.0\M1S05Ex4ao6.dll
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\bin\Debug\net7.0\M1S05Ex4ao6.pdb
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.csproj.AssemblyReference.cache
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.AssemblyInfoInputs.cache
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.AssemblyInfo.cs
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.csproj.CoreCompileInputs.cache
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.dll
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\refint\M1S05Ex4ao6.dll
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.pdb
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\M1S05Ex4ao6.genruntimeconfig.cache
+D:\Users\guica\source\repos\M1S05Ex4ao6\M1S05Ex4ao6\obj\Debug\net7.0\ref\M1S05Ex4ao6.dll
