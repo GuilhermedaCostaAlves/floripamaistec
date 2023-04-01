@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "MrzWt/GKg2rNSjqsvdZeiiBxCfaRj3TN8WUYyhBcENyaJV/sDUIeGcSjR3rIVGOUbmSPuwDpZbPwhGV8oX+kuw==",
+  "dgSpecHash": "Ly1y0d9emIR0+aDS6+lXscjARxrsoSB7WFQi8SREG7kTysPVYgm/w9588zblfFgkI/FhwPsQy9+qEwrH164E1Q==",
   "success": true,
   "projectFilePath": "D:\\Users\\Oz\\Desktop\\Entregas de exercício\\Github\\floripamaistec\\Modulo 01\\Semana 08\\Devinhouse\\Aula02\\Aula02.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guica\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.3\\microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
     "C:\\Users\\guica\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\guica\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\guica\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\guica\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\guica\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\guica\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
