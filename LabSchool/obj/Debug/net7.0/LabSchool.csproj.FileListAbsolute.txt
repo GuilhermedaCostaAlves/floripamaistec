@@ -1,0 +1,7 @@
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.csproj.AssemblyReference.cache
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.AssemblyInfoInputs.cache
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.AssemblyInfo.cs
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.csproj.CoreCompileInputs.cache
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\Oz\Desktop\Entregas de exercício\Github\floripamaistec\Modulo 01\LabSchool\obj\Debug\net7.0\LabSchool.MvcApplicationPartsAssemblyInfo.cache
