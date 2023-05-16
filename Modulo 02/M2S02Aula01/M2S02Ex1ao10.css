@@ -1,0 +1,126 @@
+body {
+    background-color: rgb(117, 12, 12);
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-weight: bold;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  header > .logo > img {
+    width: 60%;
+  }
+  
+  header nav {
+    display: flex;
+    align-items: center;
+    padding-right: 8px;
+  }
+  
+  header nav a + a {
+    margin-left: 16px;
+  }
+  
+  #Sobre {
+    display: flex;
+  }
+  
+  #Sobre .parte1 {
+    width: 50%;
+    background-color: rgb(145, 128, 240);
+    min-width: 200px;
+    min-height: 200px;
+  }
+  
+  #Sobre .parte2 {
+    width: 50%;
+    background-color: rgb(230, 173, 219);
+    min-width: 200px;
+    min-height: 200px;
+  }
+  
+  .parte1 img {
+    width: 30%;
+  }
+
+  .parte2 img {
+    width: 20%;
+  }
+  
+  @media screen and (max-width: 768px) {
+    header nav {
+      flex-wrap: wrap;
+      justify-content: space-between;
+    }
+  
+    header nav a + a {
+      margin-left: unset;
+    }
+  }
+  
+  /* Auxilio para visualização das seções */
+  #Oportunidades , #Metodologia , #Ementa ,
+  #Projetos , #Depoimentos , #Duvidas , Footer {
+    min-width: 100%;
+    min-height: 250px;
+  }
+  #Oportunidades {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(159, 6, 106);
+  }
+
+  #Oportunidades .card1 {
+    width: 33%;
+    background-color: rgb(228, 133, 17);
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 6px;
+    box-shadow: 5px 5px rgb(1, 18, 18);
+  }
+
+  #Oportunidades .card2 {
+    width: 33%;
+    background-color: rgb(7, 196, 89);
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 6px;
+    box-shadow: 5px 5px rgb(1, 18, 18);
+  }
+
+  #Oportunidades .card3 {
+    width: 33%;
+    background-color: rgb(18, 137, 184);
+    min-width: 200px;
+    min-height: 200px;
+    border-radius: 6px;
+    box-shadow: 5px 5px rgb(1, 18, 18);
+  }
+  #Metodologia {
+    background-color: lightgoldenrodyellow;
+    list-style-type:circle ;
+  }
+  
+  #Ementa {
+    background-color: lightcyan;
+  }
+  
+  #Projetos {
+    background-color: lightgray;
+  }
+  
+  #Depoimentos {
+    background-color: lightgreen;
+  }
+  
+  #Duvidas {
+    background-color: lightpink;
+  }
+  
+  Footer {
+    background-color: rgb(122, 255, 177);
+  }
