@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./Style.css">
+    <title>calculadoraImc</title>
+</head>
+    <body>
+        <section id="imcS">
+        <div class="bloco1">
+        <form class="card-Peso">
+            <input type="number" placeholder="digite seu peso" id="peso" min="0"/>
+            <input type="number" placeholder="digite sua altura" id="altura" min="0" />
+            <button type ="button" onclick="calcularIMC()" id="IMCB">calcular IMC</button>
+        
+            <p id="imc">imc</p>
+        </div>
+        </section>
+        <script> 
+                function calcularIMC(peso, altura) {
+                    var peso = document.getElementById("peso").value
+                    var altura = document.getElementById("altura").value
+
+                    altura = altura / 100;
+    
+                    var imc = peso / (altura * altura);
+
+                    imc = imc.toFixed(2);
+
+                    document.getElementById('imc').innerHTML = "seu imc é :"+imc
+                    return imc;
+                }
+  
+                var imc = calcularIMC(peso, altura);
+  
+                console.log("O seu IMC é: " + imc);
+                
+        </script>
+    </body>
+</html>

@@ -1,0 +1,72 @@
+body {
+    background-image:url("demdyla-5c43f79c-b70a-4fd7-bf23-848883140ae6.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: rgb(238, 235, 235);
+    font-weight: bold;
+  }
+#imcS .bloco1{
+  background-color: rgb(194, 218, 215);
+  margin-left: auto;
+  margin-right:auto ;
+  margin-top: 10%;
+  max-width: 300px;
+  max-height: 350px;
+  border-radius: 6px;
+  border: dashed rgb(53, 56, 57) 2px ;
+  box-shadow: -5px 5px 5px rgb(1, 18, 18);
+}
+  #peso{
+    background-color: rgb(110, 192, 125);
+    min-width: 25px;
+    min-height: 50px;
+    border-radius: 6px;
+    margin-bottom: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    box-shadow: -5px 5px 5px rgb(1, 18, 18);
+    display: flex;
+  }
+
+  #altura{
+    background-color: rgb(110, 192, 125);
+    min-width: 25px;
+    min-height: 50px;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -5px 5px 5px rgb(1, 18, 18);
+    display: flex;
+  }
+
+  #IMCB{
+    background-color: rgb(246, 246, 241);
+    min-width: 25px;
+    min-height: 40px;
+    margin-top: 10px;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -5px 5px 5px rgb(1, 18, 18);
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: medium;
+  }
+
+  #imc{
+    background-color: rgb(155, 205, 210);
+    max-width: 225px;
+    min-height: 50px;
+    align-items: center;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    box-shadow: -5px 5px 5px rgb(1, 18, 18);
+    display: flex;
+    color: black;
+  }
