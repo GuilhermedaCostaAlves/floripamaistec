@@ -1,0 +1,36 @@
+body {
+    background-image:url("demdyla-5c43f79c-b70a-4fd7-bf23-848883140ae6.gif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    color: rgb(238, 235, 235);
+    font-weight: bold;
+    
+  }
+
+  #HistCard{
+    background-color: rgb(60, 175, 64,0.3);
+    max-width: 300px;
+    margin-top: 15px;
+    box-shadow: -5px 5px 5px rgb(49, 49, 49);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+
+  }
+  #Apagar{
+    background-color: rgb(246, 246, 241);
+    min-width: 25px;
+    min-height: 30px;
+    margin-top: 10px;
+    border-radius: 6px;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: -5px 5px 5px rgb(1, 18, 18);
+    display: flex;
+    align-items: center;
+    font-weight: bold;
+    font-size: medium;
+  }

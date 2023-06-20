@@ -15,6 +15,10 @@
             <input type="number" placeholder="digite sua altura" id="altura" min="0" />
             <button type ="button" onclick="calcularIMC()" id="IMCB">calcular IMC</button>
         
+            <ul>
+                <li><a href="historico.html">Histórico</a></li>
+            </ul>
+            
             <p id="imc">imc</p>
         </div>
         </section>
@@ -26,17 +30,30 @@
                     altura = altura / 100;
     
                     var imc = peso / (altura * altura);
-
                     imc = imc.toFixed(2);
 
+                    let historico = JSON.parse(localStorage.getItem('historico')) || [];
+            historico.push(imc);
+            localStorage.setItem('historico', JSON.stringify(historico));
+            
+
+            document.getElementById('imc').textContent = imc;
+            
                     document.getElementById('imc').innerHTML = "seu imc é :"+imc
+                    if (imc < 18.5){
+                     console.log("O seu IMC é: " +imc + ", está abaixo do recomendado para a sua altura.")
+                    }
+                    else if(imc > 18.5 && imc < 24.9){
+                        console.log("O seu IMC é: " +imc + " e está considerado normal para a sua altura.")
+                    }
+                    else if(imc > 24.9 && imc < 30){
+                        console.log("O seu IMC é: " +imc + " e está acima do recomendado para a sua altura.")
+                    }
+                    else if(imc => 30 && imc <86.7){
+                        console.log("O seu IMC é: " +imc + " e está muito acima do recomendado para a sua altura.")
+                    }
                     return imc;
                 }
-  
-                var imc = calcularIMC(peso, altura);
-  
-                console.log("O seu IMC é: " + imc);
-                
         </script>
     </body>
 </html>

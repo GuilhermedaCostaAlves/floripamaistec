@@ -1,0 +1,14 @@
+body{
+    background-image: url("IMGS/1563873613057.jpg");
+    background-size: cover;
+    max-width: fit-content;
+    margin-left: 10%;
+    margin-top: 2%;   
+    display: flex; 
+}
+#CardA{
+    display: flex;
+}
+#CardB{
+    display: flex;
+}
