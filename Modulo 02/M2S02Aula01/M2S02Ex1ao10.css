@@ -107,7 +107,7 @@ Footer {
 #Oportunidades {
   display: flex;
   justify-content: space-between;
-  background-color: rgb(216, 194, 218);
+  margin-top: 15px;
 }
 
 #Oportunidades .card1 {
@@ -250,10 +250,35 @@ tr:nth-child(even) {
   display: flex;
   text-align: justify;
 }
-
 #Depoimentos {
-  background-color: rgb(216, 194, 218);
+  display: flex;
+  justify-content: space-between;
   min-width: 200px;
+  min-height: 200px;
+  border-radius: 6px;
+  box-shadow: 5px 5px rgb(1, 18, 18);
+  margin-bottom: 5px;
+}
+
+#Depoimentos .Depo01 {
+  background-color: rgb(216, 194, 218);
+  min-width: 380px;
+  min-height: 200px;
+  border-radius: 6px;
+  box-shadow: 5px 5px rgb(1, 18, 18);
+  margin-bottom: 5px;
+}
+#Depoimentos .Depo02 {
+  background-color: rgb(216, 194, 218);
+  min-width: 380px;
+  min-height: 200px;
+  border-radius: 6px;
+  box-shadow: 5px 5px rgb(1, 18, 18);
+  margin-bottom: 5px;
+}
+#Depoimentos .Depo03 {
+  background-color: rgb(216, 194, 218);
+  min-width: 380px;
   min-height: 200px;
   border-radius: 6px;
   box-shadow: 5px 5px rgb(1, 18, 18);
