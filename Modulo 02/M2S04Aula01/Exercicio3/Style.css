@@ -1,0 +1,62 @@
+body{
+    background-color: blueviolet;
+    background-image:linear-gradient(blueviolet, rgb(226, 43, 43)) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height:429px ;
+    margin-top: 200px;
+    
+}
+
+#card1 {
+    max-width: 300px;
+    min-height: 50px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+#card2 {
+    max-width: 30px;
+    max-height: 50px;
+    background-color: rgb(123, 255, 103);
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+#card3 {
+    max-width: 300px;
+    min-height: 50px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card4 {
+    max-width: 55px;
+    max-height: 55px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#card5 {
+    max-width:200px;
+    min-height: 30px;
+    background-color: aqua;
+    border-radius: 5px;
+    box-shadow: 5px 5px black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 10px;
+}
