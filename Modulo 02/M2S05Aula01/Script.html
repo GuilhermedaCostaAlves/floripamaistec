@@ -1,51 +1,27 @@
 <!DOCTYPE html>
-<html lang="pt-br">
+<html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./cardStyle.css">
-    <link rel="stylesheet" href="./Card.js">
-    <title>Memory</title>
+    <link rel="stylesheet" href="cardStyle.css">
+    <script src="redirecionarHome.js"></script>
+    <title>Document</title>
 </head>
-    <body>
-        <section class="card1">
-            <div class="CardA" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardB" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardC" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardD" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardE" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardF" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardG" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardH" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardI" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardJ" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardK" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-            <div class="CardL" onclick="selecionar()">
-                <img src="IMGS/images.jpeg">
-            </div>
-        </section>
-    </body>
+
+<body>
+    <h1 class="Login">Login</h1>
+    <div id="Form">
+        <input id="email" class="email" type="email" placeholder="Email" required>
+        <input  id="senha" class="senha" type="password" placeholder="Senha" required>
+        <button class="button1" onclick="logar()">Entrar</button>
+        <a href="EsqueciSenha.html" style="text-align: center;">
+            Esqueci minha senha</a>
+        <p
+            style="text-align: center; font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;">
+            Não possui conta?</p>
+        <a href="CriarConta.html"><button class="button2">Cadastrar</button></a>
+    </div>
+</body>
+
 </html>

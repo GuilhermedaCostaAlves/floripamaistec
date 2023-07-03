@@ -1,0 +1,47 @@
+#cabecalho {
+    background-color: rgb(238, 255, 0);
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+#fullHome {
+    display: flex;
+    margin-left: 0.5%;
+    margin-right: 0.5%;
+    margin-top: 1%;
+    justify-content: space-between;
+}
+
+.menuLateral {
+    background-color: blue;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    min-height: fit-content;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.corpo {
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    min-height: fit-content;
+    width: 100%;
+    margin-left: 0.5%;
+    text-align: center;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

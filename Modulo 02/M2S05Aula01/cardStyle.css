@@ -1,14 +1,75 @@
-body{
-    background-image: url("IMGS/1563873613057.jpg");
-    background-size: cover;
-    max-width: fit-content;
-    margin-left: 10%;
-    margin-top: 2%;   
-    display: flex; 
+.Login {
+    margin-top: 20%;
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
 }
-#CardA{
+
+#Form {
     display: flex;
+    flex-direction: column;
+    margin-left: 30%;
+    margin-right: 30%;
+    transition: 0.3s;
 }
-#CardB{
-    display: flex;
+
+#Form .email {
+    border-radius: 5px;
+    margin-bottom: 5px;
+    min-height: 35px;
+    text-align: center;
+}
+
+#Form .senha {
+    border-radius: 5px;
+    margin-bottom: 5px;
+    min-height: 35px;
+    text-align: center;
+
+}
+
+.button1:hover {
+    opacity: 2;
+}
+
+.button1 {
+    min-width: fit-content;
+    min-height: 35px;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.button2:hover {
+    opacity: 2;
+}
+
+.button2 {
+    min-width: fit-content;
+    min-height: 35px;
+    margin-left: 40%;
+    margin-right: 40%;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.button3:hover {
+    opacity: 2;
+}
+
+.button3 {
+    min-width: fit-content;
+    min-height: 35px;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-family: 'Courier New', Courier, monospace;
+    opacity: 0.7;
+    transition: 0.3s;
+    cursor: pointer;
 }

@@ -1,7 +1,7 @@
 body{
     background-image:url(mathis-verneau-synthwave-aesthetic7.jpg);
     background-repeat: no-repeat;
-    background-size: 125%;
+    background-size: cover;
 }
 
 #bot:hover {opacity: 2;}
