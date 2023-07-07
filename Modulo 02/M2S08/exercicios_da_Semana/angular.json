@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "Teste_01": {
+    "exercicios_da_Semana": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/teste-01",
+            "outputPath": "dist/exercicios-da-semana",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "Teste_01:build:production"
+              "browserTarget": "exercicios_da_Semana:build:production"
             },
             "development": {
-              "browserTarget": "Teste_01:build:development"
+              "browserTarget": "exercicios_da_Semana:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "Teste_01:build"
+            "browserTarget": "exercicios_da_Semana:build"
           }
         },
         "test": {
