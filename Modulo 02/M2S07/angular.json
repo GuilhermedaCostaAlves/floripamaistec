@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "m2S07": {
+    "M2S07": {
       "projectType": "application",
       "schematics": {},
       "root": "",
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "browserTarget": "m2S07:build:production"
+              "browserTarget": "M2S07:build:production"
             },
             "development": {
-              "browserTarget": "m2S07:build:development"
+              "browserTarget": "M2S07:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -71,7 +71,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "m2S07:build"
+            "browserTarget": "M2S07:build"
           }
         },
         "test": {
