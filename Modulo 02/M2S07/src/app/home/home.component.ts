@@ -7,4 +7,18 @@ import { Component } from '@angular/core';
 })
 export class HomeComponent {
 
+  texto = '';
+
 }
+
+
+  // calcular() {
+    
+  //   }
+  // }
+
+//   limpar() {
+  
+//   }
+
+// }
