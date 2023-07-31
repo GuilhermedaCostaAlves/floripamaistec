@@ -1,12 +1,17 @@
 <nav class="navbar navbar-expand-sm" bg-Light>
-    <div class="container-fluid">
+    <div class="container-fluid" style="display: flex;">
       <a class="navbar-brand" href="#">
-        <img src="https://www.pngkey.com/png/detail/962-9622390_dark-souls-clipart-symbol-dark-souls-solaire-symbol.png" alt="..." height="100">
+        <img src="https://www.pngkey.com/png/detail/962-9622390_dark-souls-clipart-symbol-dark-souls-solaire-symbol.png" alt="..." height="50">
       </a>
       <ul class="navbar-nav">
         <li class="nav-item">
           <a>NotificationApp</a>
         </li>
       </ul>
+      <p>{{ idade >= 18 ? "Maior de idade" : "Menor de idade" }}</p>
     </div>
+    <div>
+        <h1 style="margin-top: 2%;">Teste texto</h1>
+        <input placeholder="{{ textoInputIdade }}" />
+      </div>
   </nav>
