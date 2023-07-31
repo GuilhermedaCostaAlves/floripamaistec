@@ -10,15 +10,3 @@ export class HomeComponent {
   texto = '';
 
 }
-
-
-  // calcular() {
-    
-  //   }
-  // }
-
-//   limpar() {
-  
-//   }
-
-// }
