@@ -9,5 +9,17 @@ export class HeaderComponent {
   idade = 35;
   textoInputIdade = 'Insira um texto';
 
+  onClick() {
+    alert('Botão clicado');
+  }
+
+  onMouseOver() {
+    alert('MouseOver');
+  }
+
+  onMouseOut() {
+    alert('MouseOut');
+  }
+
 };
 
