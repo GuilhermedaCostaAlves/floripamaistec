@@ -7,6 +7,7 @@ import { HomeComponent } from './home/home.component';
 import { FormsModule } from '@angular/forms';
 import { CalculadoraComponent } from './calculadora/calculadora.component';
 import { CriticoFilmesComponent } from './critico-filmes/critico-filmes.component';
+import { FilmesComponent } from './filmes/filmes.component';
 
 @NgModule({
   declarations: [
@@ -14,6 +15,7 @@ import { CriticoFilmesComponent } from './critico-filmes/critico-filmes.componen
     HomeComponent,
     CalculadoraComponent,
     CriticoFilmesComponent,
+    FilmesComponent,
   ],
   imports: [
     BrowserModule,
