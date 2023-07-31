@@ -1,0 +1,16 @@
+<div
+    style="color: rgb(255, 255, 255); background-color: rgb(42, 106, 165); text-align: center; justify-content: space-around;">
+    <p>Digite um número:</p>
+    <input [(ngModel)]="num1">
+    <p>Digite o segundo número:</p>
+    <input [(ngModel)]="num2">
+
+    <button style="justify-content: space-around; margin-left: 0.5%;" (click)="somar()">Somar</button>
+    <button style="justify-content: space-around; margin-left: 0.5% " (click)="diminuir()">Diminuir</button>
+    <button style="justify-content: space-around; margin-left: 0.5%" (click)="multiplicar()">Multiplicar</button>
+    <button style="justify-content: space-around; margin-left: 0.5%" (click)="dividir()">Dividir</button>
+    <button style="justify-content: space-around; margin-left: 0.5%" (click)="limpar()">Limpar</button>
+
+    <h5>Resultado</h5>
+    <span>{{resultado}}</span>
+</div>
