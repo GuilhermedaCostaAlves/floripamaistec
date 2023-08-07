@@ -1,7 +1,0 @@
-Exemplos de frameworks de front-end: angular, reaja e vue.js
-front-end: é a parte visual do site, aquilo que conseguimos interagir e visualizar,
-
-Exemplos de frameworks de back-end: PHP, java, Python e Ruby
-back-end: é a parte por trás da aplicação.
-
-full stack: Trabalha com ambas, ou seja, front e back-end.
